@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hptm3823.jpg</filename>
+	<path>C:\Users\hi\Desktop\data\photo\hptm3823.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>323</ymin>
+			<xmax>1885</xmax>
+			<ymax>915</ymax>
+		</bndbox>
+	</object>
+</annotation>

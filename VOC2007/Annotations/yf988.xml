@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>yf988.jpg</filename>
+	<path>D:\Label\label\data\photo\yf988.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cutter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>62</ymin>
+			<xmax>1317</xmax>
+			<ymax>997</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr2186.jpg</filename>
+	<path>C:\ZYX something needed about learning\data\label(30)\part1\photo\hpdr2186.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>705</ymin>
+			<xmax>209</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1287</xmin>
+			<ymin>153</ymin>
+			<xmax>1372</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>photo</folder>
+	<filename>hptm251.jpg</filename>
+	<path>C:\Users\Mr.Ks\Desktop\data\photo\hptm251.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fence</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1395</xmin>
+			<ymin>7</ymin>
+			<xmax>1920</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

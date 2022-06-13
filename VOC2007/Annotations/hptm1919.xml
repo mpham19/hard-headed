@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part1</folder>
+	<filename>hptm1919.jpg</filename>
+	<path>D:\宣传\dataclean (3)\数据集构建\data\photo\part1\hptm1919.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scaffold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>709</xmin>
+			<ymin>68</ymin>
+			<xmax>853</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scaffold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>991</xmin>
+			<ymin>12</ymin>
+			<xmax>1212</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hook500.jpg</filename>
+	<path>D:\宣传\dataclean (3)\数据集构建\data\photo\part2\photo\hook500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>522</xmin>
+			<ymin>506</ymin>
+			<xmax>582</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>506</ymin>
+			<xmax>673</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

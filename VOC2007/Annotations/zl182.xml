@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>photo</folder>
+	<filename>zl182.jpg</filename>
+	<path>E:\dododo\data\photo\zl182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ebox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1201</xmin>
+			<ymin>363</ymin>
+			<xmax>2146</xmax>
+			<ymax>2985</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr513.jpg</filename>
+	<path>C:\Users\Mr.Ks\Desktop\data\photo\hpdr513.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ebox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>934</xmin>
+			<ymin>294</ymin>
+			<xmax>1047</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

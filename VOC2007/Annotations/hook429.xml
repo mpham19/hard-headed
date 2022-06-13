@@ -1,0 +1,38 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hook429.jpg</filename>
+	<path>D:\宣传\dataclean (3)\数据集构建\data\photo\part2\photo\hook429.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>847</xmin>
+			<ymin>437</ymin>
+			<xmax>883</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rebar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1382</xmin>
+			<ymin>541</ymin>
+			<xmax>1704</xmax>
+			<ymax>935</ymax>
+		</bndbox>
+	</object>
+</annotation>

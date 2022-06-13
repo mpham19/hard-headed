@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>sz63.jpg</filename>
+	<path>C:\data\photo\sz63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wood</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>993</ymin>
+			<xmax>4032</xmax>
+			<ymax>2727</ymax>
+		</bndbox>
+	</object>
+</annotation>

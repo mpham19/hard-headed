@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hptm3348.jpg</filename>
+	<path>D:\工程管理\工作坊\数据集构建\data\photo\hptm3348.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rebar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>69</ymin>
+			<xmax>1159</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

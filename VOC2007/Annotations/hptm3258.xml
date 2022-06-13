@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part1</folder>
+	<filename>hptm3258.jpg</filename>
+	<path>D:\宣传\dataclean (3)\数据集构建\data\photo\part1\hptm3258.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>626</xmin>
+			<ymin>340</ymin>
+			<xmax>932</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rebar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1250</xmin>
+			<ymin>265</ymin>
+			<xmax>1406</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

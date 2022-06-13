@@ -1,0 +1,38 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hook640.jpg</filename>
+	<path>C:\ZYX something needed about learning\data\label(30)\part2\photo\hook640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>672</ymin>
+			<xmax>626</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1167</xmin>
+			<ymin>351</ymin>
+			<xmax>1274</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

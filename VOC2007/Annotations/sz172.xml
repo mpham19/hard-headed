@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>sz172.jpg</filename>
+	<path>D:\工程管理\工作坊\数据集构建\data\photo\sz172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>1038</ymin>
+			<xmax>2512</xmax>
+			<ymax>2457</ymax>
+		</bndbox>
+	</object>
+</annotation>

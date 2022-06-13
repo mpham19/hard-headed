@@ -1,0 +1,26 @@
+<annotation>
+	<folder>part1</folder>
+	<filename>hd2354.jpg</filename>
+	<path>C:\z\data\photo\part1\hd2354.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>770</xmin>
+			<ymin>603</ymin>
+			<xmax>882</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+</annotation>

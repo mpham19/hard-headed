@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr3.jpg</filename>
+	<path>C:\Users\87641\Desktop\data\photo\hpdr3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>14</ymin>
+			<xmax>1784</xmax>
+			<ymax>1037</ymax>
+		</bndbox>
+	</object>
+</annotation>

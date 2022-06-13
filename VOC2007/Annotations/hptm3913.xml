@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part1</folder>
+	<filename>hptm3913.jpg</filename>
+	<path>D:\宣传\dataclean (3)\数据集构建\data\photo\part1\hptm3913.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymin>371</ymin>
+			<xmax>1900</xmax>
+			<ymax>1074</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slogan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymin>301</ymin>
+			<xmax>1045</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

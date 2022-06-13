@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>sz150.jpg</filename>
+	<path>D:\工程管理\工作坊\数据集构建\data\photo\sz150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>946</xmin>
+			<ymin>1</ymin>
+			<xmax>2804</xmax>
+			<ymax>2930</ymax>
+		</bndbox>
+	</object>
+</annotation>

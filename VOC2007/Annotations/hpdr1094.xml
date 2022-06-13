@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr1094.jpg</filename>
+	<path>E:\dododo\data\photo\hpdr1094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>665</xmin>
+			<ymin>230</ymin>
+			<xmax>813</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

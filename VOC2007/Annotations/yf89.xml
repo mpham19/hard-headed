@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation verified="yes">
+	<folder>photo</folder>
+	<filename>yf89.jpg</filename>
+	<path>D:\zzz\data\photo\yf89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ebox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>940</xmin>
+			<ymin>6</ymin>
+			<xmax>1293</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

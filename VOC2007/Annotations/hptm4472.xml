@@ -1,0 +1,38 @@
+<annotation>
+	<folder>label 11</folder>
+	<filename>hptm4472.jpg</filename>
+	<path>C:\Users\86166\Desktop\label（11）已查\photo\label 11\hptm4472.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fence</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>126</ymin>
+			<xmax>1404</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slogan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1359</xmin>
+			<ymin>80</ymin>
+			<xmax>1396</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

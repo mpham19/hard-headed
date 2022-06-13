@@ -1,0 +1,38 @@
+<annotation>
+	<folder>part1</folder>
+	<filename>hptm3212.jpg</filename>
+	<path>D:\宣传\dataclean (3)\数据集构建\data\photo\part1\hptm3212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scaffold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>541</xmin>
+			<ymin>731</ymin>
+			<xmax>1019</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1042</xmin>
+			<ymin>383</ymin>
+			<xmax>1365</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

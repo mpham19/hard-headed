@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>label 11</folder>
+	<filename>hptm6094.jpg</filename>
+	<path>C:\Users\86166\Desktop\photo\label 11\hptm6094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ebox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>566</ymin>
+			<xmax>320</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>

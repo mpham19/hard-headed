@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr72.jpg</filename>
+	<path>C:\Users\87641\Desktop\data\photo\hpdr72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>758</xmin>
+			<ymin>377</ymin>
+			<xmax>1051</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>zl190.jpg</filename>
+	<path>E:\dododo\data\photo\zl190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>659</xmin>
+			<ymin>482</ymin>
+			<xmax>3333</xmax>
+			<ymax>2414</ymax>
+		</bndbox>
+	</object>
+</annotation>

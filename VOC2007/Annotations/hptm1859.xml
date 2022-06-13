@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>photoa</folder>
+	<filename>hptm1859.jpg</filename>
+	<path>C:\Users\86132\Desktop\label(34)\part1\photoa\hptm1859.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slogan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1562</xmin>
+			<ymin>502</ymin>
+			<xmax>1771</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ebox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1837</xmin>
+			<ymin>800</ymin>
+			<xmax>1919</xmax>
+			<ymax>1054</ymax>
+		</bndbox>
+	</object>
+</annotation>

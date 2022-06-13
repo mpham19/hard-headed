@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>photo</folder>
+	<filename>sz305.jpg</filename>
+	<path>C:\Users\dell\Desktop\gzf\data\photo\sz305.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>1417</ymin>
+			<xmax>877</xmax>
+			<ymax>2747</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cutter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>860</ymin>
+			<xmax>2581</xmax>
+			<ymax>2627</ymax>
+		</bndbox>
+	</object>
+</annotation>

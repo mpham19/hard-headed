@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hook800.jpg</filename>
+	<path>C:\Users\86132\Desktop\label(34)\part2\photo\hook800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>1</ymin>
+			<xmax>1673</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

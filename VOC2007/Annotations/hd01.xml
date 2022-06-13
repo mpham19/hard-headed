@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hd01.jpg</filename>
+	<path>C:\Users\Brielley\Desktop\label\photo\hd01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1690</xmin>
+			<ymin>747</ymin>
+			<xmax>2103</xmax>
+			<ymax>1296</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr1667.jpg</filename>
+	<path>C:\Users\Brielley\Desktop\label\photo\hpdr1667.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rebar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>240</ymin>
+			<xmax>1916</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+</annotation>

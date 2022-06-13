@@ -1,0 +1,26 @@
+<annotation>
+	<folder>part1</folder>
+	<filename>hpdr2306.jpg</filename>
+	<path>C:\Users\ZXL\Desktop\photo mark\data\photo\part1\hpdr2306.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>385</ymin>
+			<xmax>1519</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+</annotation>

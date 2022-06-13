@@ -1,0 +1,26 @@
+<annotation>
+	<folder>label(1)</folder>
+	<filename>hpdji78.jpg</filename>
+	<path>C:\Users\worksllj\Desktop\jsdgs\data\photo\label(1)\hpdji78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scaffold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1290</xmin>
+			<ymin>1813</ymin>
+			<xmax>1693</xmax>
+			<ymax>2135</ymax>
+		</bndbox>
+	</object>
+</annotation>

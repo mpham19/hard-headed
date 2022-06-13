@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photoa</folder>
+	<filename>hptm1881.jpg</filename>
+	<path>C:\Users\86132\Desktop\label(34)\part1\photoa\hptm1881.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slogan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>465</ymin>
+			<xmax>545</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

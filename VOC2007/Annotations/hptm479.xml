@@ -1,0 +1,38 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hptm479.jpg</filename>
+	<path>C:\Users\Ina Aono\Desktop\dzy\data\photo\hptm479.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slogan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1604</xmin>
+			<ymin>350</ymin>
+			<xmax>1766</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slogan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymin>422</ymin>
+			<xmax>902</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

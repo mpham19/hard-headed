@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hptm781.jpg</filename>
+	<path>C:\data\photo\hptm781.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scaffold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>112</ymin>
+			<xmax>808</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr2685.jpg</filename>
+	<path>C:\Users\15451\Desktop\数据集构建\data\photo\hpdr2685.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>508</xmin>
+			<ymin>567</ymin>
+			<xmax>1009</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+</annotation>

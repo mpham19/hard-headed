@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>zl52.jpg</filename>
+	<path>D:\resource\tc\1123\homework\label(26)再查\data\photo\zl52.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handcart</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>743</ymin>
+			<xmax>3024</xmax>
+			<ymax>2514</ymax>
+		</bndbox>
+	</object>
+</annotation>

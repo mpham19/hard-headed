@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>zl144.jpg</filename>
+	<path>E:\dododo\data\photo\zl144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>382</ymin>
+			<xmax>3683</xmax>
+			<ymax>2576</ymax>
+		</bndbox>
+	</object>
+</annotation>

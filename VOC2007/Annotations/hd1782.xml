@@ -1,0 +1,38 @@
+<annotation>
+	<folder>label 11</folder>
+	<filename>hd1782.jpg</filename>
+	<path>C:\Users\86166\Desktop\photo\label 11\hd1782.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>841</ymin>
+			<xmax>438</xmax>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>slogan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1337</xmin>
+			<ymin>870</ymin>
+			<xmax>1419</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+</annotation>

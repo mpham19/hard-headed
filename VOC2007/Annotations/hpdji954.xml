@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdji954.jpg</filename>
+	<path>D:\SteamLibrary\data\photo\hpdji954.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2050</xmin>
+			<ymin>1855</ymin>
+			<xmax>3404</xmax>
+			<ymax>2009</ymax>
+		</bndbox>
+	</object>
+</annotation>

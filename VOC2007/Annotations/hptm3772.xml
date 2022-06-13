@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hptm3772.jpg</filename>
+	<path>C:\Users\hi\Desktop\data\photo\hptm3772.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slogan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>85</ymin>
+			<xmax>1321</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>

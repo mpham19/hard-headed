@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>sz30.jpg</filename>
+	<path>C:\data\photo\sz30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handcart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>618</xmin>
+			<ymin>612</ymin>
+			<xmax>3261</xmax>
+			<ymax>1921</ymax>
+		</bndbox>
+	</object>
+</annotation>
