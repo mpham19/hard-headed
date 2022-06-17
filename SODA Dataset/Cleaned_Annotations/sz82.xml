@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>sz82.jpg</filename>
+	<path>C:\label(6)\photo\sz82.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3215</xmin>
+			<ymin>697</ymin>
+			<xmax>3244</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

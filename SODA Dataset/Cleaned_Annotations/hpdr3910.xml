@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr3910.jpg</filename>
+	<path>C:\Users\dell\Desktop\gzf\lable(25)\photo\hpdr3910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1354</xmin>
+			<ymin>153</ymin>
+			<xmax>1390</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	</annotation>
