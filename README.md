@@ -18,7 +18,7 @@
 
 The repository is a work in progress for the Summer 2022 DAEN Capstone. Using datasets from the SODA: Site Object Detection dAtaset for Deep Learning in Construction project and the Pictor PPE project.
 
-### Article
+### Articles
 
 #### SODA
 [**SODA: Site Object Detection dAtaset for Deep Learning in Construction**](https://linjiarui.net/en/portfolio/2022-02-22-SODA-site-object-detection-dataset-for-deep-learning-in-construction) \
@@ -52,8 +52,8 @@ Automation in Construction 112, pp. 103085
 ## **Dataset**
 *Add combined data set information
 
-### Dataset statisctics
-
+### Dataset Statisctics
+*Update statistics in sprint 3
 
 ## **Methods/Approaches**
 
