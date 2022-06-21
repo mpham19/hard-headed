@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'helmet'
+}
+
+item {
+    id: 2
+    name: 'person'
+}
+
+item {
+    id: 3
+    name: 'vest'
+}
