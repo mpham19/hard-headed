@@ -1,4 +1,4 @@
-# **Object Detection of Workers' Personal-Protective-Equipment (PPE)**
+# **Object Detection of Construction Workers' Personal-Protective-Equipment (PPE)**
 
 ## **Table of Contents**
 1. [Introduction](#introduction)
