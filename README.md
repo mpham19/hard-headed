@@ -8,14 +8,23 @@
 5. [Results](#results)
 
 ## **Introduction**
-**Project Team:** Kwame Amo-Awuah, Ferdinand Percentie, Grant Peters, Michael Pham, Suyue Yan
+**Project Team:** 
+- Ferdinand Percentie (**Product Owner**)
+- Glenn Turner
+- Grant Peters
+- Kwame Amo-Awuah
+- Michael Pham
+- Suyue Yan
 
 The repository is a work in progress for the Summer 2022 DAEN Capstone. Using datasets from the SODA: Site Object Detection dAtaset for Deep Learning in Construction project and the Pictor PPE project.
 
-### Article (Datasets)
+### Article
 
-[**SODA: Site Object Detection dAtaset for Deep Learning**](https://linjiarui.net/en/portfolio/2022-02-22-SODA-site-object-detection-dataset-for-deep-learning-in-construction)
+#### SODA
+[**SODA: Site Object Detection dAtaset for Deep Learning in Construction**](https://linjiarui.net/en/portfolio/2022-02-22-SODA-site-object-detection-dataset-for-deep-learning-in-construction) \
+Rui Duan, Hui Deng, Mao Tian, Yichuan Deng, Jiarui Lin
 
+#### Pictor
 [**Deep Learning for Site Safety: Real-Time Detection of Personal Protective Equipment**](https://authors.elsevier.com/a/1aQ0o3IhXMjOmb) \
 Nipun D. Nath, Amir H. Behzadan, Stephanie G. Paal \
 Automation in Construction 112, pp. 103085
@@ -41,7 +50,7 @@ Automation in Construction 112, pp. 103085
 - `colab`
 
 ## **Dataset**
-
+*Add combined data set information
 
 ### Dataset statisctics
 
