@@ -47,7 +47,7 @@ Automation in Construction 112, pp. 103085
 - `numpy`
 - `opencv`
 - `matplotlib`
-- `colab`
+- Google Colab
 
 ## **Dataset**
 *Add combined data set information
