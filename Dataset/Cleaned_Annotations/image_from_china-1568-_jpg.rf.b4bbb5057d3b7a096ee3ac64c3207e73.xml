@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image_from_china-1568-_jpg.rf.b4bbb5057d3b7a096ee3ac64c3207e73.jpg</filename>
+	<path>image_from_china-1568-_jpg.rf.b4bbb5057d3b7a096ee3ac64c3207e73.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>192</xmin>
+			<xmax>335</xmax>
+			<ymin>85</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>
