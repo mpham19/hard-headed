@@ -1,0 +1,50 @@
+<annotation>
+	<folder>label 11</folder>
+	<filename>hptm6028.jpg</filename>
+	<path>C:\Users\86166\Desktop\label&#65288;11&#65289;&#24050;&#26597;\photo\label 11\hptm6028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>978</ymin>
+			<xmax>848</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>815</xmin>
+			<ymin>962</ymin>
+			<xmax>860</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vest</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>1016</ymin>
+			<xmax>853</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

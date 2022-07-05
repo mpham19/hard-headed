@@ -1,0 +1,38 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>hpdr2597.jpg</filename>
+	<path>C:\Users\Ina Aono\Desktop\dzy\data\photo\hpdr2597.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1289</xmin>
+			<ymin>365</ymin>
+			<xmax>1343</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1273</xmin>
+			<ymin>337</ymin>
+			<xmax>1347</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>
