@@ -16,6 +16,9 @@
 - Michael Pham
 - Suyue Yan
 
+## **Problem**
+Limiting worker accidents on construction sites to improve the health of workers, reduce days lost to injury and reduce insurance payouts for workers' compensation claims.
+
 The repository is a work in progress for the Summer 2022 DAEN Capstone. Using datasets from the SODA: Site Object Detection dAtaset for Deep Learning in Construction project and the Pictor PPE project.
 
 ### Articles
