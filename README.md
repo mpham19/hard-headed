@@ -51,6 +51,7 @@ Automation in Construction 112, pp. 103085
 - `opencv`
 - `matplotlib`
 - Google Colab
+- GMU Hopper Cluster
 
 ## **Dataset**
 *Add combined data set information
@@ -66,7 +67,6 @@ Automation in Construction 112, pp. 103085
 Models trained on the dataset:
 
 - SSD
-- YOLO
 
 
 ## **Results**
